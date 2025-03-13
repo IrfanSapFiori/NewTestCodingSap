@@ -1,2 +1,2 @@
 # NewTestCodingSap
-This is my test coding repo for SAP UI5
+This is my test coding repo for SAP UI5 dev
